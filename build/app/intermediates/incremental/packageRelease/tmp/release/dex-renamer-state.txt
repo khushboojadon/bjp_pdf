@@ -1,0 +1,4 @@
+#Sun Jun 06 12:58:43 IST 2021
+base.0=/Users/apple/Desktop/bjp_pdf/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
